@@ -1,0 +1,14 @@
+﻿.footerlinks {
+    color:antiquewhite;
+    text-decoration: underline;
+}
+.footerlinks:hover{
+    color:aqua;
+}
+#footer1 {
+    background-color: steelblue;
+ 
+}
+#footer2 {
+    background-color: lightslategrey;
+}
